@@ -1,6 +1,6 @@
 # Sistema de Gastos Personales
 
-Trabajo grupal desarrollado para el Challenge de Tecnología del curso introductorio del ITBA.
+Trabajo grupal desarrollado para la Challenge de Tecnología del curso introductorio del ITBA.
 
 ## ¿Qué hace la aplicación?
 Un sistema de gestión de gastos personales por consola que permite a múltiples usuarios registrar, visualizar y analizar sus gastos de forma segura.
@@ -22,4 +22,11 @@ Un sistema de gestión de gastos personales por consola que permite a múltiples
 ## ¿Cómo correrlo?
 1. Tener Python instalado
 2. Instalar matplotlib: `pip install matplotlib` (en la consola)
-3. Correr el archivo `main.py`
+3. Correr el archivo `Trabajo-tec.py`
+
+## Usuarios disponibles
+Por defecto el sistema tiene dos usuarios creados:
+- Usuario: Alexis | Contraseña: 4044
+- Usuario: Maria | Contraseña: 5678
+
+Para agregar nuevos usuarios simplemente modificá el diccionario "usuarios" al inicio del código.

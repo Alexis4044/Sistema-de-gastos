@@ -1,6 +1,6 @@
 # Sistema de Gastos Personales
 
-Trabajo grupal desarrollado para la Challenge de Tecnología del curso introductorio del ITBA.
+Trabajo grupal desarrollado para la Challenge de Tecnología.
 
 ## ¿Qué hace la aplicación?
 Un sistema de gestión de gastos personales por consola que permite a múltiples usuarios registrar, visualizar y analizar sus gastos de forma segura.

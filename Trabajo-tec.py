@@ -1,6 +1,6 @@
-import os
-import csv
-import matplotlib.pyplot as plt
+import os # nos permite trabajar con archivos y carpetas de la computadora
+import csv # nos permite leer y escribir archivos CSV
+import matplotlib.pyplot as plt # librería externa que instalamos aparte, la usamos para generar gráficos de barras
 
 # Usuarios y contraseñas válidos (esto es el login aca empieza el esqueleto del proyecto)
 usuarios = {

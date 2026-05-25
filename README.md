@@ -31,5 +31,5 @@ Por defecto el sistema tiene dos usuarios creados:
 
 Para agregar nuevos usuarios simplemente modificá el diccionario "usuarios" al inicio del código.
 
-##¿Cómo borrar el historial de gastos?
+## ¿Cómo borrar el historial de gastos?
 Simplemente borrá el archivo `gastos.csv` de la carpeta del proyecto. La próxima vez que corras el programa lo crea vacío automáticamente.
